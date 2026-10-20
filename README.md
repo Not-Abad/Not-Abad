@@ -1,13 +1,50 @@
-<h1 align="center"><b>Hi , I'm Not-Abad </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <h1>Hi 👋, I'm Abad</h1>
+  <h3><i>"Not-Abad at writing code" • Computer Systems Engineering Student</i></h3>
+</div>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Systems Engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I am beginning to explore open-source projects. I am passionate about learning and creating new things, and I am also open to participating in public projects.
-- 🌱 Currently learning...
-- PHP
-- CMacker
-- 👯 Interested in collaborating on open-source projects.
-- ✔ Feel free to ask me anything—I’d be happy to help!
-- 📫 You can reach me at: <a href="mailto:0905chucho@gmail.com">0905chucho@gmail.com</a>
+<!--Intro start-->
+<!-- Professional Bio -->
+I am a **Computer Systems Engineering** student currently halfway through my degree, focused on software architecture, system design, and backend development. My core expertise includes building desktop applications using **C++ with CMake** and **Java Swing**, as well as developing web systems with **PHP & Laravel**. I regularly design and optimize relational databases using **MariaDB** and **MySQL**. Driven by clean code principles and continuous learning, I am actively seeking opportunities to contribute to open-source projects and collaborative software environments.
+
+---
+
+<!-- Key Highlights -->
+- 🎓 **Education:** Computer Systems Engineering student (5th semester).
+- 💻 **Core Focus:** C++ (CMake), Java Swing desktop applications, and PHP/Laravel web systems.
+- 🗄️ **Databases:** Relational database management with MariaDB & MySQL.
+- 🌱 **Currently expanding:** Advanced backend architecture, scalable web systems, and modern C++ workflows.
+- 🤝 **Collaboration:** Open to collaborating on open-source repositories and public software projects.
+- 💬 **Ask me about:** C++, CMake, PHP, SQL, Java, and Object-Oriented Programming (OOP).
+- 📫 **Contact:** Reach out via email at [0905chucho@gmail.com](mailto:0905chucho@gmail.com) or check my GitHub [@Not-Abad](https://github.com/Not-Abad).
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+</p>        
+<!--- stats (end) -->
