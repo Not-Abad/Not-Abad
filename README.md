@@ -3,7 +3,7 @@
   <h3><i>"Not-Abad at writing code" • Computer Systems Engineering Student</i></h3>
 </div>
 <!--  -->
-<img align="right" width="280px" alt="Cat Chill" src="./assets/Cat Chill GIF.gif" />
+<img align="right" width="200px" alt="Cat Chill" src="./assets/Cat Chill GIF.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <!--Intro start-->
