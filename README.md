@@ -19,7 +19,7 @@ I am a **Computer Systems Engineering** student currently halfway through my deg
 - 🌱 **Currently expanding:** Advanced backend architecture, scalable web systems, and modern C++ workflows.
 - 🤝 **Collaboration:** Open to collaborating on open-source repositories and public software projects.
 - 💬 **Ask me about:** C++, CMake, PHP, SQL, Java, and Object-Oriented Programming (OOP).
-- 📫 **Contact:** Reach out via email at [0905chucho@gmail.com](mailto:0905chucho@gmail.com) or check my GitHub [@Not-Abad](https://github.com/Not-Abad).
+- 
 <!--Intro end-->
 
 <!-- Stats & Languages Section -->
