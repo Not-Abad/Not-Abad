@@ -30,6 +30,6 @@ I am a **Computer Systems Engineering** student currently halfway through my deg
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-Abad&theme=dark" alt="Not-Abad's GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10&cache_seconds=1" alt="Top Languages" />    </td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10" alt="Top Languages" />
   </tr>
 </table>
