@@ -19,7 +19,6 @@ I am a **Computer Systems Engineering** student currently halfway through my deg
 - 🌱 **Currently expanding:** Advanced backend architecture, scalable web systems, and modern C++ workflows.
 - 🤝 **Collaboration:** Open to collaborating on open-source repositories and public software projects.
 - 💬 **Ask me about:** C++, CMake, PHP, SQL, Java, and Object-Oriented Programming (OOP).
-- 
 <!--Intro end-->
 
 <!-- Stats & Languages Section -->
@@ -31,7 +30,6 @@ I am a **Computer Systems Engineering** student currently halfway through my deg
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-Abad&theme=dark" alt="Not-Abad's GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10" alt="Top Languages" />
-    </td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10&cache_seconds=1" alt="Top Languages" />    </td>
   </tr>
 </table>
