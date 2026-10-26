@@ -1,8 +1,10 @@
+<!-- Pantalla principal de mi perfil -->
+
 <div align="center">
   <h1>Hi 👋, I'm Abad</h1>
   <h3><i>"Not-Abad at writing code" • Computer Systems Engineering Student</i></h3>
 </div>
-<!--  -->
+
 <img align="right" width="200px" alt="Cat Chill" src="./assets/Cat Chill GIF.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -30,6 +32,7 @@ I am a **Computer Systems Engineering** student currently halfway through my deg
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-Abad&theme=dark" alt="Not-Abad's GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10" alt="Top Languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10&v=1" alt="Top Languages" />  
+    </td>
   </tr>
 </table>
