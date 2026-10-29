@@ -27,12 +27,12 @@ I am a **Computer Systems Engineering** student currently halfway through my deg
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Not-Abad&theme=dark&show_icons=true" alt="Not-Abad's GitHub Stats" />
+    <img src="https://github-readme-mwendwa.vercel.app/api?username=Not-Abad&theme=dark&show_icons=truea" alt="Not-Abad's GitHub Stats" />
       <br><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-Abad&theme=dark" alt="Not-Abad's GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10&v=1" alt="Top Languages" />  
+      <img align="center" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Not-Abad&theme=dark&langs_count=10&v=1" alt="Top Languages" />  
     </td>
   </tr>
 </table>
